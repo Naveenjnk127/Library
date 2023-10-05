@@ -1,0 +1,22 @@
+body{
+    background-color: #1d2630;
+    color: #fff;
+}
+
+#bookTable{
+    color: #fff;
+    background-color: #1d2630;
+}
+
+.modal{
+    color: #000;
+}
+
+
+.radioButton{
+    padding: 2px;
+}
+
+.radioButton.status{
+    padding: 5px;
+}
